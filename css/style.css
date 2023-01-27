@@ -1,0 +1,38 @@
+.heading {
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 52px;
+    background-color: paleturquoise;
+    color: darkred;
+}
+.recipe {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cornflowerblue;
+}
+.subheading {
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkmagenta;
+    color: white;
+    font-weight: lighter;
+}
+img {
+    height: auto;
+    width: 500px;
+}
+.desc {
+    font-size: 22px;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    background-color:plum;
+    color: antiquewhite;
+}
+.ingred {
+    font-size: 18;
+    font-family: 'Segoe UI', Tahoma, "Geneva", Verdana, sans-serif;
+    background-color: aquamarine;
+    color:blueviolet;
+    font-style: italic;
+}
