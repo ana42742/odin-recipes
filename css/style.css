@@ -36,3 +36,9 @@ img {
     color:blueviolet;
     font-style: italic;
 }
+.steps {
+    font-size: 18;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: pink;
+    color: darkred;
+}
